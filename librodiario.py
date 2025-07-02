@@ -5,9 +5,9 @@ import traceback
 
 #Configuración de logging
 logging.basicConfig(
-    filename='log_contable.log',
+    filename='logs/log_contable.log',
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
+    format='%(asctime)s - %(levelname)s - %(filename)s:%(lineno)d - %(message)s'
 )
 
 class MontoInvalidoError(Exception):

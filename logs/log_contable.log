@@ -1,0 +1,15 @@
+2025-07-02 17:40:40,266 - ERROR - librodiario.py:70 - Linea 1: Formato incorrecto -> 2025-06-19;Venta de disco SSD;80;InGrEso;
+2025-07-02 17:40:40,266 - ERROR - librodiario.py:70 - Linea 2: Formato incorrecto -> 2025-06-18;Compra de teclado Polaroid;50;EGreSO;
+2025-07-02 17:40:40,266 - ERROR - librodiario.py:70 - Linea 3: Formato incorrecto -> 2025-06-19;Venta de pantalla ENV;200;ingreso;
+2025-07-02 17:42:30,119 - INFO - librodiario.py:51 - Transaccion registrada: 2025-06-19 | Venta de disco SSD | 80.0 | InGrEso
+2025-07-02 17:42:30,119 - INFO - librodiario.py:51 - Transaccion registrada: 2025-06-18 | Compra de teclado Polaroid | 50.0 | EGreSO
+2025-07-02 17:42:30,120 - INFO - librodiario.py:51 - Transaccion registrada: 2025-06-19 | Venta de pantalla ENV | 200.0 | ingreso
+2025-07-02 17:49:57,070 - INFO - librodiario.py:51 - Transaccion registrada: 2025-06-19 | Venta de disco SSD | 80.0 | InGrEso
+2025-07-02 17:49:57,070 - INFO - librodiario.py:51 - Transaccion registrada: 2025-06-18 | Compra de teclado Polaroid | 50.0 | EGreSO
+2025-07-02 17:49:57,070 - INFO - librodiario.py:51 - Transaccion registrada: 2025-06-19 | Venta de pantalla ENV | 200.0 | ingreso
+2025-07-02 17:50:24,584 - INFO - librodiario.py:51 - Transaccion registrada: 2025-06-19 | Venta de disco SSD | 80.0 | InGrEso
+2025-07-02 17:50:24,584 - INFO - librodiario.py:51 - Transaccion registrada: 2025-06-18 | Compra de teclado Polaroid | 50.0 | EGreSO
+2025-07-02 17:50:24,587 - ERROR - librodiario.py:55 - Tipo de transaccion invalido, debe poner 'ingreso' o 'egreso'. - Linea: ValueError: Tipo de transaccion invalido, debe poner 'ingreso' o 'egreso'.
+2025-07-02 17:50:24,588 - ERROR - librodiario.py:55 - Formato de fecha invalido, debe usar el formato: yyyy-mm-dd. - Linea: ValueError: Formato de fecha invalido, debe usar el formato: yyyy-mm-dd.
+2025-07-02 17:50:24,588 - ERROR - librodiario.py:55 - El monto debe ser mayor a cero. - Linea: librodiario.MontoInvalidoError: El monto debe ser mayor a cero.
+2025-07-02 17:50:24,588 - ERROR - librodiario.py:70 - Linea 6: Formato incorrecto -> 
