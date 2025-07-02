@@ -13,3 +13,9 @@
 2025-07-02 17:50:24,588 - ERROR - librodiario.py:55 - Formato de fecha invalido, debe usar el formato: yyyy-mm-dd. - Linea: ValueError: Formato de fecha invalido, debe usar el formato: yyyy-mm-dd.
 2025-07-02 17:50:24,588 - ERROR - librodiario.py:55 - El monto debe ser mayor a cero. - Linea: librodiario.MontoInvalidoError: El monto debe ser mayor a cero.
 2025-07-02 17:50:24,588 - ERROR - librodiario.py:70 - Linea 6: Formato incorrecto -> 
+2025-07-02 18:11:23,873 - INFO - librodiario.py:47 - Transacción registrada: 2025-06-19 | Venta de disco SSD | 80.00 | InGrEso
+2025-07-02 18:11:23,873 - INFO - librodiario.py:47 - Transacción registrada: 2025-06-18 | Compra de teclado Polaroid | 50.00 | EGreSO
+2025-07-02 18:11:23,876 - ERROR - librodiario.py:51 - Tipo de transacción inválido, debe ser 'ingreso' o 'egreso'. - Línea: ValueError: Tipo de transacción inválido, debe ser 'ingreso' o 'egreso'.
+2025-07-02 18:11:23,877 - ERROR - librodiario.py:51 - Formato de fecha inválido, debe usar: yyyy-mm-dd. - Línea: ValueError: Formato de fecha inválido, debe usar: yyyy-mm-dd.
+2025-07-02 18:11:23,877 - ERROR - librodiario.py:51 - El monto debe ser mayor a cero. - Línea: librodiario.MontoInvalidoError: El monto debe ser mayor a cero.
+2025-07-02 18:11:23,877 - ERROR - librodiario.py:62 - Línea 6: Formato incorrecto -> 
