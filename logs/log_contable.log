@@ -19,3 +19,39 @@
 2025-07-02 18:11:23,877 - ERROR - librodiario.py:51 - Formato de fecha inválido, debe usar: yyyy-mm-dd. - Línea: ValueError: Formato de fecha inválido, debe usar: yyyy-mm-dd.
 2025-07-02 18:11:23,877 - ERROR - librodiario.py:51 - El monto debe ser mayor a cero. - Línea: librodiario.MontoInvalidoError: El monto debe ser mayor a cero.
 2025-07-02 18:11:23,877 - ERROR - librodiario.py:62 - Línea 6: Formato incorrecto -> 
+2025-07-02 18:26:29,521 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:26:30,483 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:26:31,327 - ERROR - librodiario.py:63 - El monto debe ser mayor a cero. - Línea: librodiario.MontoInvalidoError: El monto debe ser mayor a cero.
+2025-07-02 18:26:32,371 - ERROR - librodiario.py:63 - Tipo de transacción inválido, debe ser 'ingreso' o 'egreso'. - Línea: ValueError: Tipo de transacción inválido, debe ser 'ingreso' o 'egreso'.
+2025-07-02 18:26:34,213 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:26:35,471 - ERROR - librodiario.py:63 - El monto debe ser mayor a cero. - Línea: librodiario.MontoInvalidoError: El monto debe ser mayor a cero.
+2025-07-02 18:26:36,270 - ERROR - librodiario.py:63 - El monto debe ser mayor a cero. - Línea: librodiario.MontoInvalidoError: El monto debe ser mayor a cero.
+2025-07-02 18:26:37,116 - ERROR - librodiario.py:63 - El monto debe ser mayor a cero. - Línea: librodiario.MontoInvalidoError: El monto debe ser mayor a cero.
+2025-07-02 18:29:18,529 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:29:18,529 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:29:19,303 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:29:19,303 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:29:19,802 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:29:19,802 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:29:19,804 - INFO - librodiario.py:121 - Resumen exportado correctamente a test_resumen.txt
+2025-07-02 18:35:38,814 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:35:38,814 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:35:38,815 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:35:38,815 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:35:38,816 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:35:38,816 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:35:38,816 - INFO - librodiario.py:121 - Resumen exportado correctamente a test_resumen.txt
+2025-07-02 18:47:04,459 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:47:04,459 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:47:04,462 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:47:04,462 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:47:04,462 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:47:04,462 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:47:04,462 - INFO - librodiario.py:121 - Resumen exportado correctamente a test_resumen.txt
+2025-07-02 18:48:48,879 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:48:48,879 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:48:48,879 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:48:48,879 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:48:48,879 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-15 | Venta de producto | 1000.00 | ingreso
+2025-07-02 18:48:48,879 - INFO - librodiario.py:56 - Transacción registrada: 2025-06-16 | Pago de servicios | 500.00 | egreso
+2025-07-02 18:48:48,879 - INFO - librodiario.py:121 - Resumen exportado correctamente a test_resumen.txt
